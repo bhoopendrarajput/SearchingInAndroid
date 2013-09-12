@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Searching In Android</string>
+    <string name="action_settings">Type at least 2 characters of a word of following:\n\"Belgium\",\"France\", \"Italy\", \"Germany\", \"Spain\", "989121212", "98998989"</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
